@@ -1,11 +1,11 @@
 # Site settings
-title: Li Blog
-SEOTitle: 李的博客 | Li Blog
+title: Walden
+SEOTitle: zouzou的博客 | Walden
 header-img: img/home-bg.jpg
 email: mizirogi@foxmail.com
 description: "关于程序与设计、逗比 | 李，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 李洋 的个人博客，与你一起发现更大的世界。"
 keyword: "LI, 李洋, Mizirogi, 鬼栈,  李洋的博客, Li Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://nextick.icu"              # your host, for absolute URL
+url:             # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -86,7 +86,7 @@ ga_domain: nextick.icu
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "你的十五分钟"
+sidebar-about-description: "啦啦啦啦啦啦啦啦"
 sidebar-avatar: /img/li-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
